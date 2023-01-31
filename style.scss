@@ -1,0 +1,37 @@
+.carousel-inner, .carousel-item {
+    height: 100vh; }
+  
+  .carousel-item img {
+    height: 100%;
+    object-fit: cover; }
+  
+  .card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover; }
+  
+  .button-parent {
+    flex-shrink: 1; }
+  
+  .columns-bck {
+    background: #eff2f5; }
+  
+  .background-bck {
+    background: #eff2f5;
+    margin-bottom: 0; }
+    .background-bck .card {
+      background: #eff2f5;
+      border: none; }
+  
+  i {
+    cursor: pointer; }
+  
+  li {
+    transition: 1s; }
+  
+  li:hover {
+    transform: scale(1.2); }
+  
+  .list-inline-item a {
+    text-decoration: none; }
+  
